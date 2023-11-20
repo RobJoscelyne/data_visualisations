@@ -1,0 +1,14 @@
+#chart-area svg {
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#logo {
+	height:180px;
+}
+
+.navbar-brand {
+	height: 190px;
+	padding: 5px 0px;
+}
